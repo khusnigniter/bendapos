@@ -1,5 +1,8 @@
 # Aplikasi Web Entri Data Materai, Perangko Dan Benda POS.
+
 Aplikasi Transaksi Benda POS Kota Malang
+<img src="http://3.bp.blogspot.com/-5lslq0ORo5Y/UYy0qLJCaSI/AAAAAAAABEM/UJIWrqFCH8o/s1600/localhost.jpg">
+
 1. Analisis Program
 
 Analisis sistem ini memberikan gambaran tentang sistem yang saat ini sedang berjalan dan bertujuan mengetahui lebih jelas bagaimana cara kerja sistem tersebut selain untuk mengetahui sistem yang sedang berjalan digunakan juga untuk mendefinisikan dan mengevaluasi permasalahan, kesempatan, hambatan yang terjadi dan kebutuhan-kebutuhan yang diharapkan sehingga dapat diusulkan suatu perbaikan. Analisis yang dilakukan sistem pengarsipan surat masuk dan surat keluar didapatkan data seperti dibawah ini.
